@@ -11,5 +11,6 @@ What program this have:
 ## How to build
 
 1. build and install [cassette](https://github.com/fraawlen/cassette) (instructions in the repo)
-2. run ``make``
-3. copy paste ``crecord.desktop`` file in /usr/share/applications (so you can see it in ur app launcher)
+2. clone this repository
+3. cd into cloned repository folder and run ``make``
+4. copy paste ``crecord.desktop`` file in /usr/share/applications (so you can see it in ur app launcher)
